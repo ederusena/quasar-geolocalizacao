@@ -1,10 +1,10 @@
 <template>
   <q-page class="bg-grey-9">
     
-    <div class="row justify-center">
-      <div class="col-6">
+    <div class="col-md-6 col-xl-4 row justify-center">
+
         <img alt="Quasar logo" src="~assets/mappurple.svg" />
-      </div>
+
     </div>
 
     <div class="row justify-center">
